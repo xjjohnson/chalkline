@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Chalkline">
+  <rect width="16" height="16" rx="3" fill="#F3EFE6"/>
+  <path d="M1.6 12.6c3.2-.2 4.6-3.4 6.6-3 1.6.3 3.2 1.2 6.2-.2" fill="none" stroke="#1A1814" stroke-width="1.35" stroke-linecap="round"/>
+  <circle cx="7" cy="4.7" r="1.45" fill="none" stroke="#1A1814" stroke-width="1.25"/>
+  <path d="M7 6.2v2.7" fill="none" stroke="#1A1814" stroke-width="1.25" stroke-linecap="round"/>
+  <path d="M7.2 6.8 10.6 5.6" fill="none" stroke="#D6453D" stroke-width="1.55" stroke-linecap="round"/>
+  <path d="M5.1 9.5h4.1" fill="none" stroke="#1A1814" stroke-width="1.35" stroke-linecap="round"/>
+</svg>
